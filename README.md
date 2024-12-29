@@ -1,1 +1,0 @@
-# Internshala-SQL-Assignment-files
